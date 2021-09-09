@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drpython12
 - 👀 I’m interested in programming, investment finance, and enterprise development. 
-- 🌱 I’m currently learning A-Level Computer Science at BSM.
+- 🌱 I’m currently studying BSc Computer Science and Mathematics at Queen Mary University of London
 - 💞️ I’m looking to collaborate on any small or medium scale software development program which provides industry experience in a range of different fields.
 - 📫 How to reach me (email) gandhipalash0@gmail.com
 
