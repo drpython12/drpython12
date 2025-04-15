@@ -5,8 +5,10 @@
 
 # Hi there, I'm Palash 👋
 
-**Computer Science & Mathematics student | Software Engineer | Data Enthusiast**  
-Graduating June 2025 | Queen Mary University of London
+**Computer Science & Mathematics student
+Software Engineer | Data Enthusiast**  
+Graduating June 2025
+Queen Mary University of London
 
 ---
 
