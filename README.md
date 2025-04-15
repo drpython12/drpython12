@@ -6,6 +6,7 @@
 # Hi there, I'm Palash 👋
 
 Final-year Computer Science & Mathematics student at Queen Mary University of London (Graduating June 2025)
+
 Building smart tech for real-world impact — from systems engineering to intelligent automation.
 
 ---
