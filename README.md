@@ -3,12 +3,28 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-👀 Hi! My name is Palash
+# Hi there, I'm Palash Gandhi 👋
 
-📖 I am pursuing a BSc in Computer Science and Mathematics at Queen Mary University of London 
+**Computer Science & Mathematics student | Software Engineer | Data Enthusiast**  
+Graduating June 2025 | Queen Mary University of London
 
+---
 
-## 🧑‍💻 Languages and Tools
+🚀 I’m passionate about building **scalable tech solutions** that solve real-world problems.  
+From **automating operations at Intel** to **designing APIs at a travel tech startup**, I’ve tackled systems, data, and software challenges head-on.
+
+I enjoy blending **code with strategy**—whether it’s optimizing a Python data pipeline, improving web performance, or integrating cloud systems to support smarter decisions.
+
+---
+
+### 💼 What I’ve Been Up To:
+- **Intel Corporation** – Automated key business processes and optimized real-time data pipelines (50% time saved, 30% faster insights)
+- **Travel Solutions Middle East** – Built backend systems & RESTful APIs that boosted booking platform performance
+- **Bank Muscat** – Rotated through finance and tech teams; worked on scalable deployments and gained exposure to investment, audit, and wealth systems
+
+---
+
+## 🛠️ Tech Stack I Work With
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,6 +49,27 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+---
+
+### 📌 What You’ll Find Here:
+- Personal utilities and tools to automate repetitive tasks
+- Backend projects demonstrating RESTful API design
+- Data analysis and visualization experiments
+- Selected coursework projects (some repositories may be private)
+
+---
+
+## 🤳 Connect With Me
+
+<p align="center">
+    <a href="https://www.instagram.com/palashhg/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/palash-gandhi"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:palashsamirgandhi@gmail.com"><img alt="Linkedin" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+⚡ Always learning. Always building. Looking to join a team where I can **grow, ship great code, and make an impact.**
+
+---
 
 ## 📊 My GitHub Statistics
 
@@ -43,12 +80,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="drpython12's Badge" src="https://github-readme-streak-stats.herokuapp.com/?user=drpython12"/></a>
 
 <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
-
-
-## 🤳 Connect With Me
-
-<p align="center">
-    <a href="https://www.instagram.com/palashhg/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/palash-gandhi"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:palashsamirgandhi@gmail.com"><img alt="Linkedin" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
